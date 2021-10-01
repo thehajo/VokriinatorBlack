@@ -25,7 +25,7 @@
           deps: [0],
 		}, {
           name: 'The Alchemist\'s Cookbook',
-          desc: ['You may choose a second Elemental Oil power. In addition, you may also choose "Calming Oil", "Frenzy Oil", "Paralysis Oil" or "Hallowed Oil".'],
+          desc: ['You may choose a second Elemental Oil power. In addition to "Fire Oil", "Frost Oil" and "Shock Oil", you may also choose "Calming Oil", "Frenzy Oil", "Paralysis Oil" or "Hallowed Oil".'],
           req: [60],
           pos: [-8, -108],
           deps: [2],
