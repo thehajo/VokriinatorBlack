@@ -3665,8 +3665,8 @@
 		}, {
           name: 'Wild and Free',
 		  levels: 2,
-          desc: ['While sprinting in Light Armor, you take 50% less damage from attacks.'],
-          req: [80],
+          desc: ['While sprinting in Light Armor, you take 50% less damage from attacks.', 'While sprinting in all Light Armor, incoming attacks and spells always miss.'],
+          req: [80, 95],
           pos: [3, -140],
           deps: [27],
 		}, {
