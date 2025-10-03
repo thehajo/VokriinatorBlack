@@ -490,7 +490,7 @@
 		}, {
           name: 'Psionic',
           desc: ['Choose an illusion magic mastery: Magnetic Presence, Aura of Doom, or Veil of Whispers.'],
-          req: [1000],
+          req: [100],
           pos: [78, -150],
           deps: [50, 51, 52],
 		}, {
@@ -3615,7 +3615,7 @@
           pos: [-61, -144],
           deps: [18],
 		}, {
-          name: 'Unhindered',
+          name: 'Unfettered',
           desc: ['Power attacks cost 25% less Stamina when wearing three pieces of light armor.'],
           req: [65],
           pos: [-29, -113],
